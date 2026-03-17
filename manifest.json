@@ -11,9 +11,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "MC Eternal 2",
-  "version": "1.2.0.4",
-  "author": "adam98991",
+  "name": "alexpack",
+  "version": "1.0.0",
+  "author": "alex",
   "files": [
     {
       "projectID": 513769,
@@ -3370,12 +3370,6 @@
       "isLocked": false
     },
     {
-      "projectID": 511770,
-      "fileID": 5796441,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 431611,
       "fileID": 5481492,
       "required": true,
@@ -3730,12 +3724,6 @@
       "isLocked": false
     },
     {
-      "projectID": 367706,
-      "fileID": 5823943,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 857799,
       "fileID": 4632484,
       "required": true,
@@ -3744,6 +3732,24 @@
     {
       "projectID": 527361,
       "fileID": 6721676,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 443915,
+      "fileID": 7369303,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1237904,
+      "fileID": 7397504,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 416089,
+      "fileID": 7416882,
       "required": true,
       "isLocked": false
     },

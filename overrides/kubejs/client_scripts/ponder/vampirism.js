@@ -17,7 +17,7 @@ Ponder.registry(event => {
                 scene.showBasePlate()
                 scene.idle(20)
 
-                scene.text(50, "Looking for a Vampire Forest? It's contained solely within a custom Dimension in MC Eternal 2.")
+                scene.text(50, "Looking for a Vampire Forest? It's contained solely within a custom Dimension in alexpack.")
                 scene.idle(70)
                 scene.text(40, "Here's how to reach it.")
                 scene.idle(50)

@@ -1,6 +1,6 @@
 //priority: 10
 
-Platform.setModName("mce2", "MC Eternal 2")
+Platform.setModName("mce2", "alexpack")
 
 
 global.playSoundNear = (player, sourceEntity, sound, sourceType, volume, pitch) => {

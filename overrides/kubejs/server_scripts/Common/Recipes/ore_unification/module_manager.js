@@ -2,7 +2,7 @@
 
 //Manager for the Unification Module system
 /*
-    created to help ease of Ore Unification in MC Eternal 2
+    created to help ease of Ore Unification in alexpack
     
     As a convention, any given moduleGroup for a mod and its recipetypes should be in its own file, for ease of disabling if necessary.
 

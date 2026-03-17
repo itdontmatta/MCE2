@@ -1,6 +1,6 @@
 Ponder.tags(event => {
 	
-	event.createTag('mce2:mekanism_multiblocks', 'mekanismgenerators:turbine_blade', 'MC Eternal: Mekanism Structures', 'Making Massive Mekanized Multiblocks!', [
+	event.createTag('mce2:mekanism_multiblocks', 'mekanismgenerators:turbine_blade', 'alexpack: Mekanism Structures', 'Making Massive Mekanized Multiblocks!', [
 		'mekanism:supercharged_coil',
 		'mekanismgenerators:fusion_reactor_controller',
 		'mekanismgenerators:fission_fuel_assembly',

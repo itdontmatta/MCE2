@@ -1,5 +1,5 @@
 {
-  "mce2.ponder.tag.mekanism_multiblocks": "MC Eternal: Estruturas do Mekanism",
+  "mce2.ponder.tag.mekanism_multiblocks": "alexpack: Estruturas do Mekanism",
   "mce2.ponder.tag.mekanism_multiblocks.description": "Fazendo Multiblocos Mecanizados Massivos!",
   "kubejs.ponder.brazier.header": "Impedindo Gerações com o Braseiro",
   "kubejs.ponder.brazier.text_1": "O Braseiro é uma estrutura Multibloco usada para impedir que monstros sejam gerados em um grande raio ao redor dele.",
@@ -61,7 +61,7 @@
   "kubejs.ponder.smeltery.text_8": "...algum tipo de Tanque Chamuscado...",
   "kubejs.ponder.smeltery.text_9": "...e pelo menos um Dreno Chamuscado para acessar seu conteúdo.",
   "kubejs.ponder.vampire_portal.header": "Portal para a Floresta dos Vampiros",
-  "kubejs.ponder.vampire_portal.text_1": "Procurando por uma Floresta dos Vampiros? Ela está contida apenas dentro de uma Dimensão personalizada no MC Eternal 2.",
+  "kubejs.ponder.vampire_portal.text_1": "Procurando por uma Floresta dos Vampiros? Ela está contida apenas dentro de uma Dimensão personalizada no alexpack.",
   "kubejs.ponder.vampire_portal.text_2": "Aqui está como alcançá-la.",
   "kubejs.ponder.vampire_portal.text_3": "Primeiro, crie um anel de Tijolos de Ardosiabissal.",
   "kubejs.ponder.vampire_portal.text_4": "Então, use um Frasco de Sangue cheio ou Sangue de Vampiro em cada tijolo.",

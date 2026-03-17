@@ -1,5 +1,5 @@
 {
-  "mce2.ponder.tag.mekanism_multiblocks": "MC Eternal: Mekanism Structures",
+  "mce2.ponder.tag.mekanism_multiblocks": "alexpack: Mekanism Structures",
   "mce2.ponder.tag.mekanism_multiblocks.description": "Making Massive Mekanized Multiblocks!",
   "kubejs.ponder.brazier.header": "Spawn-Busting With The Brazier",
   "kubejs.ponder.brazier.text_1": "The Brazier is a Multiblock structure used to prevent monsters from spawning in a large radius around it.",
@@ -61,7 +61,7 @@
   "kubejs.ponder.smeltery.text_8": "...some kind of Seared Tank...",
   "kubejs.ponder.smeltery.text_9": "...and atleast one Seared Drain to access its contents.",
   "kubejs.ponder.vampire_portal.header": "Portal to The Vampire Forest",
-  "kubejs.ponder.vampire_portal.text_1": "Looking for a Vampire Forest? It\u0027s contained solely within a custom Dimension in MC Eternal 2.",
+  "kubejs.ponder.vampire_portal.text_1": "Looking for a Vampire Forest? It\u0027s contained solely within a custom Dimension in alexpack.",
   "kubejs.ponder.vampire_portal.text_2": "Here\u0027s how to reach it.",
   "kubejs.ponder.vampire_portal.text_3": "First, create a ring of Deepslate Bricks.",
   "kubejs.ponder.vampire_portal.text_4": "Then, use either a full Blood Bottle or Vampire Blood on each brick.",
